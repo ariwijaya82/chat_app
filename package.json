@@ -1,0 +1,29 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariwijaya82/electron_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariwijaya82/electron_app/issues"
+  },
+  "homepage": "https://github.com/ariwijaya82/electron_app#readme",
+  "devDependencies": {
+    "electron": "^13.1.1",
+    "electron-packager": "^15.2.0"
+  },
+  "dependencies": {
+    "electron": "^13.1.1",
+    "electron-packager": "^15.2.0"
+  }
+}
